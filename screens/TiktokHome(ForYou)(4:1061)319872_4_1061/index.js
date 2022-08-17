@@ -34,7 +34,7 @@ export class Blank extends React.Component {
       <ImageBackground
         source={{
           uri:
-            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/008ad0f9-1e7e-45f5-8b42-86d38f92babe"
+            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4a5dfca8-f4d2-4ac9-ac2a-62bb145e762a"
         }}
         style={styles.ImageBackground_4_1062}
       />
@@ -51,7 +51,7 @@ export class Blank extends React.Component {
       <ImageBackground
         source={{
           uri:
-            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3df29f55-1361-49aa-8b62-62aa0e011113"
+            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/71bda5fb-55f4-412c-81f1-a8cc4e3ff571"
         }}
         style={styles.ImageBackground_4_1066}
       />
@@ -60,7 +60,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/629b9751-dc05-4916-92f8-6813929a646b"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2513b903-f7f4-445e-8762-43c3fea077bb"
             }}
             style={styles.ImageBackground_4_1071}
           />
@@ -75,7 +75,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e7f5a66f-c239-47cf-9ecc-79d493a1e0c7"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0fceaf66-3695-4708-ae9d-9545d9a74870"
             }}
             style={styles.ImageBackground_4_1077}
           />
@@ -87,7 +87,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/15253bd3-871e-4396-8359-168d3b3bd497"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad627cf4-fe15-46c0-bc10-dd315c2e220a"
             }}
             style={styles.ImageBackground_4_1082}
           />
@@ -97,14 +97,14 @@ export class Blank extends React.Component {
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/29817e53-69f0-4dd6-b86f-c27f56fc85d9"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/db197ce3-4187-4732-9861-16cf9fcc6385"
           }}
           style={styles.ImageBackground_4_1086}
         />
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/15bf0843-e36c-41f3-8bb6-2a73602bf4a8"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1ec48ee8-ef1c-481d-a165-e5742b49697a"
           }}
           style={styles.ImageBackground_4_1087}
         />
@@ -113,7 +113,7 @@ export class Blank extends React.Component {
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e338fada-23d4-4d98-8b5b-597dfc157fb8"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a72dd233-20ee-48a3-8306-14b6ce27e98b"
           }}
           style={styles.ImageBackground_4_1091}
         />
@@ -124,7 +124,7 @@ export class Blank extends React.Component {
       <ImageBackground
         source={{
           uri:
-            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3100be98-379e-4e2f-8ba0-823ece9deb67"
+            "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a5c65cf3-d9b7-4eba-a744-be2a4f1d3026"
         }}
         style={styles.ImageBackground_4_1093}
       />
@@ -137,7 +137,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6279475e-715b-40ef-aba5-29f7c1554e81"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b57a0967-46e4-4578-8d00-38987de0a7b7"
             }}
             style={styles.ImageBackground_4_1103}
           />
@@ -146,7 +146,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/50b01b3f-3f7c-44cc-8004-4cc205627803"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ee0c2038-e844-42b7-8869-877b3a17f0cd"
             }}
             style={styles.ImageBackground_4_1105}
           />
@@ -158,7 +158,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c486a27b-b9f1-4dd0-8ee3-4893aa633778"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6603475a-9f54-4b90-a05e-82260f26e6b3"
             }}
             style={styles.ImageBackground_4_1108}
           />
@@ -170,7 +170,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cc1789c6-76cf-47d8-958d-46df2babc088"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e19e1bb4-5926-47c4-9945-d092ea9f1d61"
             }}
             style={styles.ImageBackground_4_1111}
           />
@@ -182,7 +182,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/44a5cab3-e747-4ed2-a21a-beff64486041"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6a7ae3e0-045c-4037-84b1-51b9928522a4"
             }}
             style={styles.ImageBackground_4_1114}
           />
@@ -201,7 +201,7 @@ export class Blank extends React.Component {
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5206c087-a527-4e39-8faa-597dc8425aa0"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7ee313a2-1ed2-4667-a804-88da977b6c5e"
           }}
           style={styles.ImageBackground_4_1119}
         />
@@ -216,7 +216,7 @@ export class Blank extends React.Component {
           <ImageBackground
             source={{
               uri:
-                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ef59e9a3-4eff-42d5-a6b2-7c5e93056c8c"
+                "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a5daeae-6189-4cd1-bd41-2c64e1b5aaa6"
             }}
             style={styles.ImageBackground_4_1126}
           />
@@ -224,7 +224,7 @@ export class Blank extends React.Component {
             <ImageBackground
               source={{
                 uri:
-                  "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f683d4d2-dc94-4f03-86cc-718fbb7b9b8d"
+                  "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e2616cbd-39bc-48e1-a58c-a49f6f5caa63"
               }}
               style={styles.ImageBackground_4_1130}
             />
@@ -235,14 +235,14 @@ export class Blank extends React.Component {
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f55330c2-27ab-4339-bb2c-70213b87b96c"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a1219f29-5c01-443b-a466-79806a2baaa9"
           }}
           style={styles.ImageBackground_4_1133}
         />
         <ImageBackground
           source={{
             uri:
-              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/507c005a-8bcb-4f9e-9a1f-f25326637a77"
+              "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/20942190-6fe8-451f-a002-1a35d938f914"
           }}
           style={styles.ImageBackground_4_1137}
         />
